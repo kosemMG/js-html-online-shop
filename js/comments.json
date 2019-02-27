@@ -1,0 +1,20 @@
+{
+  "maxID": 3,
+  "comments": [
+    {
+      "author": "Ann",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "id": 1
+    },
+    {
+      "author": "Peter",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda debitis eos nemo!",
+      "id": 2
+    },
+    {
+      "author": "Steve",
+      "text": "Lorem ipsum dolor sit amet.",
+      "id": 3
+    }
+  ]
+}
